@@ -28,13 +28,6 @@ Full Stack .NET Developer | React Developer | Software Engineering Student
 
 ---
 
-## 🌐 Portfolio
-
-🔗 **Portfolio Website:**  
-https://ashishkalsara.vercel.app/
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
