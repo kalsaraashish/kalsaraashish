@@ -61,26 +61,9 @@
 
 ## 📊 GitHub Stats
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalsaraashish&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalsaraashish&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Connect With Me
-
-💼 Portfolio: https://ashishkalsara.vercel.app/
-
-💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
-
-🔗 LinkedIn: YOUR_LINKEDIN_URL
-
----
-
-⭐ "Code. Learn. Build. Repeat."
