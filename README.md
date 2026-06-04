@@ -69,36 +69,6 @@ https://ashishkalsara.vercel.app/
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-🌐 Portfolio: https://ashishkalsara.vercel.app/
-
-💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
-
-💼 LinkedIn: Add Your LinkedIn URL Here
-
----
-
 ## 💡 Current Focus
 
 - Building Full Stack Applications
@@ -109,4 +79,3 @@ https://ashishkalsara.vercel.app/
 
 ---
 
-⭐ From [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
