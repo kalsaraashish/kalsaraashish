@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ashish Kalsara</h1>
 
 <h3 align="center">
-Full Stack .NET Developer | React Developer | Software Engineering Student
+Full Stack ASP.NET Core Developer | React Developer | MCA Student
 </h3>
 
 <p align="center">
@@ -22,7 +22,7 @@ Full Stack .NET Developer | React Developer | Software Engineering Student
 
 🚀 Deployed projects using **Vercel**
 
-📍 Ahmedabad, Gujarat, India
+📍 Gandhinagar, Gujarat, India
 
 🎯 Passionate about learning new technologies and solving real-world problems
 
@@ -69,6 +69,4 @@ Full Stack .NET Developer | React Developer | Software Engineering Student
 - Improving React Skills
 - Creating Real-World Projects
 - Exploring Software Engineering Best Practices
-
----
 
