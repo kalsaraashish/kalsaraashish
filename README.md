@@ -16,7 +16,7 @@ Full Stack ASP.NET Core Developer | React Developer | MCA Student
 
 💻 Full Stack Developer specializing in **ASP.NET Core** and **React.js**
 
-🌱 Currently learning advanced **.NET Core**, **React**,**Angular**, and modern web development
+🌱 Currently learning advanced **.NET Core**, **React**, **Angular**, and modern web development
 
 🔭 Building web applications using **ASP.NET Core, React, SQL Server, and REST APIs**
 
